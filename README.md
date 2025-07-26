@@ -39,7 +39,7 @@ With the rapidly increasing demand for laptops in the modern world, price predic
 
 ## 📊 Dataset
 
-- Dataset Source: [Laptop Prices Dataset](#) *(Insert link here if public)*
+- Dataset Source: [Laptop Prices Dataset](#) 
 - Size: ~1300+ entries with 11 features
 
 ---
@@ -53,13 +53,12 @@ With the rapidly increasing demand for laptops in the modern world, price predic
 - XGBoost
 - Jupyter Notebook / VS Code
 
----
 
-## 📈 Sample Output
 
-*You can include screenshots of the prediction result, model accuracy graph, or confusion matrix here.*
 
----
 
-## 📂 Project Structure
+
+
+
+
 
